@@ -12,7 +12,7 @@ import (
 	"github.com/beego/beego/v2/core/validation"
 	"github.com/beego/beego/v2/server/web"
 	clientconfig "github.com/d3vilh/openvpn-server-config/client/client-config"
-	"github.com/d3vilh/openvpn-ui/lib"
+	"github.com/valerijko/openvpn-ui/lib"
 	"github.com/d3vilh/openvpn-ui/models"
 	"github.com/d3vilh/openvpn-ui/state"
 )

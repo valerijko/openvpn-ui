@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 
 	"github.com/beego/beego/v2/server/web"
-	"github.com/d3vilh/openvpn-ui/lib"
+	"github.com/valerijko/openvpn-ui/lib"
 	"github.com/d3vilh/openvpn-ui/models"
 	"github.com/d3vilh/openvpn-ui/routers"
 	"github.com/d3vilh/openvpn-ui/state"
