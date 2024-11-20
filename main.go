@@ -7,9 +7,9 @@ import (
 
 	"github.com/beego/beego/v2/server/web"
 	"github.com/valerijko/openvpn-ui/lib"
-	"github.com/d3vilh/openvpn-ui/models"
-	"github.com/d3vilh/openvpn-ui/routers"
-	"github.com/d3vilh/openvpn-ui/state"
+	"github.com/valerijko/openvpn-ui/models"
+	"github.com/valerijko/openvpn-ui/routers"
+	"github.com/valerijko/openvpn-ui/state"
 )
 
 func main() {

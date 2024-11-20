@@ -6,7 +6,7 @@ import (
 	"github.com/beego/beego/v2/core/logs"
 	mi "github.com/d3vilh/openvpn-server-config/server/mi"
 	"github.com/valerijko/openvpn-ui/lib"
-	"github.com/d3vilh/openvpn-ui/state"
+	"github.com/valerijko/openvpn-ui/state"
 )
 
 type MainController struct {

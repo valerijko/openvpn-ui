@@ -11,8 +11,8 @@ import (
 	"github.com/d3vilh/openvpn-server-config/server/config"
 	mi "github.com/d3vilh/openvpn-server-config/server/mi"
 	"github.com/valerijko/openvpn-ui/lib"
-	"github.com/d3vilh/openvpn-ui/models"
-	"github.com/d3vilh/openvpn-ui/state"
+	"github.com/valerijko/openvpn-ui/models"
+	"github.com/valerijko/openvpn-ui/state"
 )
 
 type OVConfigController struct {

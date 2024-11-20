@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/beego/beego/v2/core/logs"
-	"github.com/d3vilh/openvpn-ui/state"
+	"github.com/valerijko/openvpn-ui/state"
 )
 
 // Cert

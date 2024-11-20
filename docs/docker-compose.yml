@@ -24,7 +24,7 @@ services:
 
     openvpn-ui:
        container_name: openvpn-ui
-       image: d3vilh/openvpn-ui:latest
+       image: valerijko/openvpn-ui:latest
        environment:
            - OPENVPN_ADMIN_USERNAME=admin
            - OPENVPN_ADMIN_PASSWORD=gagaZush
